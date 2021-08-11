@@ -1,0 +1,92 @@
+[
+    {
+        "caseName": "Dashboard of Admin role",
+        "urlPath": "/backend/course/",
+        "username": "administrator",
+        "password": "qwepoi123",
+        "titleOfPage": "Courses"
+    },
+    {
+        "caseName": "Classes page of Admin role",
+        "urlPath": "/backend/courseclass/",
+        "username": "administrator",
+        "password": "qwepoi123",
+        "titleOfPage": "Classes "
+    },
+    {
+        "caseName": "Students page of Admin role",
+        "urlPath": "/backend/studentproxy/",
+        "username": "administrator",
+        "password": "qwepoi123",
+        "titleOfPage": "Students"
+    },
+    {
+        "caseName": "Attendances page of  Admin role",
+        "urlPath": "/backend/attendanceproxy/",
+        "username": "administrator",
+        "password": "qwepoi123",
+        "titleOfPage": "Attendances"
+    },
+    {
+        "caseName": "Class Feedbacks page of Admin role",
+        "urlPath": "/backend/classfeedback/",
+        "username": "administrator",
+        "password": "qwepoi123",
+        "titleOfPage": "Class Feedbacks"
+    },
+    {
+        "caseName": "Class page of Teacher role",
+        "urlPath": "/backend/teachercourseclassproxy/",
+        "username": "teacher_test",
+        "password": "qwepoi123",
+        "titleOfPage": "Classes"
+    },
+    {
+        "caseName": "Course page of Teacher",
+        "urlPath": "/backend/teachercourseproxy/",
+        "username": "teacher_test",
+        "password": "qwepoi123",
+        "titleOfPage": "Courses"
+    },
+    {
+        "caseName": "Material page of Teacher role",
+        "urlPath": "/backend/material/",
+        "username": "teacher_test",
+        "password": "qwepoi123",
+        "titleOfPage": "Materials"
+    },
+    {
+        "caseName": "Course page of Student role",
+        "urlPath": "/backend/studentcourseproxy/",
+        "username": "test_hoanglinh_123",
+        "password": "qwepoi123",
+        "titleOfPage": "Courses"
+    },
+    {
+        "caseName": "Class page of Student role",
+        "urlPath": "/backend/studentclassproxy/",
+        "username": "test_hoanglinh_123",
+        "password": "qwepoi123",
+        "titleOfPage": "Classes"
+    },
+    {
+        "caseName": "Request page of Student role",
+        "urlPath": "/backend/requeststudentproxy/",
+        "username": "test_hoanglinh_123",
+        "password": "qwepoi123",
+        "titleOfPage": "Requests"
+    },
+    {
+        "caseName": "Schedule page of Student role",
+        "urlPath": "/schedule/",
+        "username": "test_hoanglinh_123",
+        "password": "qwepoi123"
+    },
+    {
+        "caseName": "Miss Class rating page of Student role",
+        "urlPath": "/backend/missedratingclassproxy/",
+        "username": "test_hoanglinh_123",
+        "password": "qwepoi123",
+        "titleOfPage": "Missed Class Ratings "
+    }
+]

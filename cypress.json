@@ -1,0 +1,7 @@
+{
+    "defaultCommandTimeOut": 8000,
+    "env": {
+        "url": "https://elearning.ieltsmaster.vn"
+    }
+
+}
