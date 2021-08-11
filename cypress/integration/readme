@@ -1,0 +1,2 @@
+PageObjects: to create the function for each page, will be reused on TestSuite
+TestSuite: create script to run testcase, each case as it() function
