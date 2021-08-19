@@ -20,5 +20,12 @@ class VerifyFunctions{
 
     }
 
+    VerifyDropdownFilter(nameOfDropdownList, itemNo){
+        //selected item on dropdown list
+        var selectedItem = cy.get('ul.select2-results__options>li').eq(itemNo);
+        //get the list of item on the result table 
+        
+    }
+
 }
 export default VerifyFunctions
