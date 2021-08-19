@@ -1,5 +1,6 @@
 /// <reference types = "Cypress"/>
 /// <reference types="cypress-xpath" />
+/// <reference types="cypress-get-table" />
 
 import LoginPage from '../../../PageObjects/LoginPage'
 import NavigationMenu from '../../../PageObjects/NavigationMenuPage.spec'
@@ -39,6 +40,7 @@ describe('Verify the Course Page case list', () =>{
     })
 
     it.skip('Verify the sorting list by Name',() => {
+        
 
     })
 
